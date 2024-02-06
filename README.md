@@ -11,13 +11,13 @@
 </p>
 
 ## ⚡🙋‍♂️ About me
-<br>
+
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m learning Software Develoving 💻
 - 😄: Pronouns: He/His
 - 💬: Ask me about Networking, Linux and LMS Platforms. 📊📈🤖🧠
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
-<br>
+
 
 <!--## Some of projects
 <table>
