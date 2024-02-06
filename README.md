@@ -16,7 +16,7 @@
 - 🌱: I’m learning Software Develoving 💻
 - 😄: Pronouns: He/His
 - 💬: Ask me about Networking, Linux and LMS Platforms. 📊📈🤖🧠
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- ⚡  Fun fact: I like watching soccer games, watch animes and play videogames ⚽🎾🎹
 
 
 <!--## Some of projects
