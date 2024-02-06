@@ -11,8 +11,7 @@
 </p>
 
 ## ⚡🙋‍♂️ About me
-
-- 🏫: I'm a grade 9, High School Student.
+<br>
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m learning Software Develoving 💻
 - 😄: Pronouns: He/His
@@ -20,7 +19,7 @@
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
 <br>
 
-<!--## Proyectos *bombitas*
+<!--## Some of projects
 <table>
 <tr>
 <td width="50%">
