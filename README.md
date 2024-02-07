@@ -41,7 +41,7 @@
                <br>  
 <h3 align="center">Personal Portfolio</h3>
 <div align="center">                                       
-<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="425" alt="Personal_Portfolio"></a>
+<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="400" height="250" alt="Personal_Portfolio"></a>
 <br>
 <p>
 <a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank">
