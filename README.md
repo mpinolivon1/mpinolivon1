@@ -38,7 +38,6 @@
 </td>
 
 <td width="50%">
-               <br>  
 <h3 align="center">Personal Portfolio</h3>
 <div align="center">                                       
 <a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="350" height="170" alt="Personal_Portfolio"></a>
