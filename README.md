@@ -25,8 +25,7 @@
 <td width="50%">
 <h3 align="center">Proyecto BatataBit</h3>
 <div align="center">
-<a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank"><img src="https://imgur.com/a/zSL2FJA.jpg" width="400" alt="BatataBit"></a>
-
+<a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank"><img src="https://imgur.com/a/zSL2FJA.png" width="400" alt="BatataBit"></a>
 <p>
 <a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
