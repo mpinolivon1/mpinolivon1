@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>This Personal Portfolio is a versatile website designed to demonstrate the power of HTML, CSS, and JavaScript. This dynamic website seamlessly adjusts its layout and functionality, providing users with a consistent and optimized browsing experience.</p>
+</p>This Personal Portfolio is a website designed to demonstrate the power of HTML, CSS, and JS. This dynamic website seamlessly adjusts its layout and functionality, providing users with a consistent and optimized browsing experience.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
