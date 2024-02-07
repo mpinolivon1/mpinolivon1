@@ -26,7 +26,7 @@
 <td width="50%">
 <h3 align="center">BatataBit Project</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/k6kQLZC.png" width="400" height="250" alt="BatataBit"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/k6kQLZC.png" width="350" height="170" alt="BatataBit"></a>
 <p>
 <a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -41,7 +41,7 @@
                <br>  
 <h3 align="center">Personal Portfolio</h3>
 <div align="center">                                       
-<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="400" height="250" alt="Personal_Portfolio"></a>
+<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="350" height="170" alt="Personal_Portfolio"></a>
 <br>
 <p>
 <a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank">
