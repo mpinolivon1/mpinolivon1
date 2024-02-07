@@ -19,7 +19,7 @@
 - ⚡  Fun fact: I like watching soccer games, watch animes and play videogames ⚽🎾🎹
 
 
-<!--## Some of projects
+## Some of projects
 <table>
 <tr>
 <td width="50%">
@@ -59,7 +59,7 @@
 </div>
 <br>
 
-<table>
+<!--<table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
@@ -106,7 +106,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+-->
 
 
 
@@ -114,15 +114,5 @@
 
 <!--
 **mpinolivon1/mpinolivon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
