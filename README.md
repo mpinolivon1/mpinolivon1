@@ -53,6 +53,37 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">BatataBit Project</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/k6kQLZC.png" width="350" height="170" alt="BatataBit"></a>
+<p>
+<a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>  
+</p>
+<p>BatataBit is a beautiful static website designed to showcase the works of a talented individual. Built using HTML and CSS, this website provides a friendly platform to showcase various skills acquired in these web development tools.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Personal Portfolio</h3>
+<div align="center">                                       
+<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="350" height="170" alt="Personal_Portfolio"></a>
+<br>
+<p>
+<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>This Personal Portfolio is a website designed to demonstrate the power of HTML, CSS, and JS. This dynamic website seamlessly adjusts its layout and functionality, providing users with a consistent and optimized browsing experience.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 <!--
 <table>
 <tr>
