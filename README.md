@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>  
 </p>
-<p>Aprende a programar aplicaciones Android con Kotlin nivel intermedio - En este curso nos centraremos en las buenas prácticas, arquitectura y testing. Curso GRATUITO de 8 horas con todo el código disponible para descargar.</p>
+<p>BatataBit is a beautiful static website designed to showcase the works of a talented individual. Built using HTML and CSS, this website provides a friendly platform to showcase various skills acquired in these web development tools.</p>
 </div>
                                                                                       
 </td>
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Aprende a programar aplicaciones Android con Kotlin nivel intermedio - En este curso nos centraremos en las buenas prácticas, arquitectura y testing. Curso GRATUITO de 8 horas con todo el código disponible para descargar.</p>
+</p>This Personal Portfolio is a versatile website designed to demonstrate the power of HTML, CSS, and JavaScript. This dynamic website seamlessly adjusts its layout and functionality, providing users with a consistent and optimized browsing experience.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
