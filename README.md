@@ -1,3 +1,4 @@
+<br>
 <div align="center">
 <br>
 <br>
@@ -25,36 +26,35 @@
 <td width="50%">
 <h3 align="center">BatataBit Project</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/k6kQLZC.png" width="400" alt="Curso arquitectura MVVM"></a>
-<!--<a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank"><img src="https://imgur.com/a/zSL2FJA.png" width="400" alt="BatataBit"></a>-->
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/k6kQLZC.png" width="400" height="250" alt="BatataBit"></a>
 <p>
 <a href="https://github.com/mpinolivon1/Proyecto-BatataBit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
+</a>  
 </p>
-<p>Text here</p>
+<p>Aprende a programar aplicaciones Android con Kotlin nivel intermedio - En este curso nos centraremos en las buenas prácticas, arquitectura y testing. Curso GRATUITO de 8 horas con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Personal Portfolio</h3>
 <div align="center">                                       
-<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="400" alt="Personal_Portfolio"></a>
+<a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank"><img src="https://i.imgur.com/YKk0v01.png" width="420" alt="Personal_Portfolio"></a>
 <br>
 <p>
 <a href="https://github.com/mpinolivon1/Reponsive_Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Enter text</p>
+</p>Aprende a programar aplicaciones Android con Kotlin nivel intermedio - En este curso nos centraremos en las buenas prácticas, arquitectura y testing. Curso GRATUITO de 8 horas con todo el código disponible para descargar.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
 
-<!--<table>
+<!--
+<table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
